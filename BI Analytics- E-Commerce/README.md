@@ -6,13 +6,6 @@
  ![image](https://github.com/user-attachments/assets/620afc6b-3ebe-4d3e-a900-a80ca166d6fc)
 
 
-
-ACTION VERB/FIRST CONTRIBUTION TO THE PROJECT/NUMERICAL MEASURE OR RESULTS OF ACTION.  
-ACTION VERB/FIRST CONTRIBUTION TO THE PROJECT/NUMERICAL MEASURE OR RESULTS OF ACTION.  
-ACTION VERB/FIRST CONTRIBUTION TO THE PROJECT/NUMERICAL MEASURE OR RESULTS OF ACTION.  
-
-
-
 - WHAT DID YOU BUILD AND WHY?
 The project involved creating an analytical dashboard and comprehensive report to deliver actionable insights into Zomato’s business performance. The goal was to emphasize key areas such as restaurant popularity, revenue trends, and trending cuisines, enabling informed decision-making and strategic planning.
 - WHAT PROBLEM DID IT SOLVE?
