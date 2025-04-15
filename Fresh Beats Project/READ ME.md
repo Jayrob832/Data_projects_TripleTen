@@ -1,21 +1,21 @@
-# NAME OF PROJECT  
+# Fresh Beats 
 
 ![image](https://github.com/user-attachments/assets/e3a3ea5e-938b-44e5-8569-a614574ff53e)
 
 
-#To provide shareholders with valuable insights into the success and areas for improvement in how to engage users with the platform.
+#The goal was to provide shareholders with valuable insights into the success and areas for improvement in how to engage users with the platform.
 
 
-ACTION VERB/FIRST CONTRIBUTION TO THE PROJECT/NUMERICAL MEASURE OR RESULTS OF ACTION.  
-ACTION VERB/FIRST CONTRIBUTION TO THE PROJECT/NUMERICAL MEASURE OR RESULTS OF ACTION.  
-ACTION VERB/FIRST CONTRIBUTION TO THE PROJECT/NUMERICAL MEASURE OR RESULTS OF ACTION.  
+What Did You Build and Why?
+The goal was to uncover actionable insights that could enhance marketing strategies, optimize catalog expansion, and improve free-to-paid user conversion. By analyzing listening trends over time, the project provides a clearer picture of genre shifts and user behavior, helping Fresh Beats make informed decisions.
 
 
-WHAT DID YOU BUILD AND WHY?  
-WHAT PROBLEM DID IT SOLVE?  
-WHAT TECHNOLOGIES DID YOU USE?  
-HOW MANY WEEKS/MONTHS DID IT TAKE TO COMPLETE?  
-HOW MANY PEOPLE TOOK PART IN THE PROJECT AND WHAT WAS YOUR CONTRIBUTION?  
+What Problem Did It Solve?
+The project addresses the challenge of business performance stagnation by pinpointing areas for improvement. Specifically, it helps Fresh Beats solve the problem of:
+- Declining Pop Genre Engagement – By recognizing the downward trend, the company can investigate reasons behind this shift and adjust accordingly.
+- Free-to-Paid Conversion Struggles – By identifying Rock as a key genre among free users, Fresh Beats can implement promotional strategies that encourage these users to subscribe.
+- Optimizing Catalog Growth – Insights into the rise of Electronic and Hip-Hop genres offer direction on where to invest in artist partnerships and content expansion.
+- Strengthening Paid User Retention – By understanding listening habits, Fresh Beats can fine-tune retention strategies for long-term user engagement.
   
 ### Conclusions
 
