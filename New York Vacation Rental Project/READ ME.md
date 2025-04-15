@@ -4,6 +4,7 @@ New York Vacation Rental
 
 
 Summary
+
 The spreadsheet provides an in-depth analysis of rental trends across various New York City neighborhoods. Key insights include:
 •	Neighborhood Preferences:
 o	Midtown: There is a clear preference for rentals that require fewer bedrooms, such as studios, suggesting a niche market for compact and efficient living spaces.
@@ -14,4 +15,6 @@ o	Rental activity peaks on Fridays, indicating that timing can play a role in ma
 •	Size of Properties:
 o	There is consistently lower demand for larger properties with 3 or more bedrooms, suggesting that targeted efforts should instead focus on properties that align with the trending sizes.
 
+
+Link to the full project is [Here](https://docs.google.com/spreadsheets/d/1S-cSl-Qjao_dMw-1bwVYW2BLg1cAcLIh/edit?usp=sharing&ouid=105475623621398518007&rtpof=true&sd=true)
 
