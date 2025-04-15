@@ -4,7 +4,7 @@ Portfolio of completed projects I worked on while attending the PROGRAM NAME Tri
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Fresh Beats](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 1 | [Fresh Beats] (https://github.com/Jayrob832/Data_projects_TripleTen/tree/5f73a6d8b8df5a84989dcee909bfb8cb81fd9740/BI%20Analytics-%20E-Commerce)| DESCRIPTION HERE. |
 | 2 | [Excel-New York vacation rental ](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [SQL-Zuber database](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 4 | [BI Analytics E-Commerce](https://github.com/Jayrob832/Data_projects_TripleTen/tree/main/BI%20Analytics-%20E-Commerce) | DESCRIPTION HERE. |
