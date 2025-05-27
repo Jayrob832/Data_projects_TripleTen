@@ -10,4 +10,4 @@ Portfolio of completed projects I worked on while attending the PROGRAM NAME Tri
 | 4 | [Tableau-Avoiding bankruptcy](https://public.tableau.com/shared/HYRFKHMHY?:display_count=n&:origin=viz_share_link) | The task was to increase profitability and avoid bankruptcy |
 | 5 | [Tableau-Returns project](https://youtu.be/-ZFgP-qWeKQ?si=P-O36N0QhMOpec3B) | The project was to research the returns for the company |
 | 6 | [Power BI-Zomato Project](https://github.com/Jayrob832/Data_projects_TripleTen/blob/fa5b68913ba473a1e49bd122f17c812ca35c2497/Food%20Delivery%20Project/Food%20Delivery%20Project/READ%20ME.md) | This report highlights analyzes key revenue drivers in the restaurant industry using business intelligence tools. The focus is on restaurant performance, sales trends, and customer behavior to optimize business decisions. | 
-
+**VIA WORD**
